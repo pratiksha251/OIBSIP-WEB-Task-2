@@ -1,0 +1,52 @@
+body {
+    background-image: url(space.jpg);
+    margin-top: 60px;
+  }
+  .head{
+    text-align: center;
+    
+  }
+  h1{
+    font-weight: 100px;
+  }
+  .container{
+    background-color: rgb(222, 218, 218);
+    margin-top: 40px;
+    margin-bottom: 40px;
+    margin-left: 150px;
+    margin-right: 150px;
+  }
+
+  .thumbnail{
+
+    margin-left: 130px;
+    margin-right: 130px;
+   
+    background-color: rgb(241, 234, 234);
+    text-align: center;
+  
+  }
+  .foreground{
+         margin: 20px;
+         margin-left: 130px;
+         margin-right: 130px;
+  }
+
+
+  .info{
+    margin-left: 150px;
+    margin-right: 150px;
+    line-height: 25px;
+  }
+  .life{
+    
+    list-style-type:square;
+  }
+  #quote{
+    margin-left:200px;
+    margin-right:200px;
+  }
+  #link{
+    text-align: right;
+    color: white;
+  }
